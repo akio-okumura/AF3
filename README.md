@@ -10,6 +10,10 @@ A-Frameの学習用レポジトリ
 
 a-sound
 
+[360度画像ページ](https://aframe.io/docs/0.8.0/guides/building-a-360-image-gallery.html)の、**event-set**以降
+
+- event-setするとページが白紙になってしまう
+
 ## Asset Management System
 
 アセット機能が使えなかったのは、ローカルで実行してたから。
